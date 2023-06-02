@@ -142,3 +142,50 @@ header button{
     font-weight: 800;
     font-size: 25px;
 }
+
+
+/* Call to action */
+.cta{
+    padding: 120px;
+    color: #fff;
+}
+
+
+.cta .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #3882f6;
+    border-radius: 10px;
+    padding: 50px 20px;
+    width: 80%;
+}
+
+.cta h3 {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.cta p {
+    font-size: 16px;
+    color: #d9d9d9;
+}
+
+.cta button{
+    color: #fff;
+    background: #3882f6;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-weight: 800;
+    border: 2px solid #fff;
+}
+
+/* Footer */
+footer{
+    background: #1f2937;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
