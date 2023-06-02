@@ -116,3 +116,29 @@ header button{
 
 
 /* Quote */
+
+.quote{
+    padding: 150px;
+    background: #e5e7eb;
+}
+
+.quote .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 900px;
+}
+
+.quote em {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+
+.quote strong{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 800;
+    font-size: 25px;
+}
